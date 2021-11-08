@@ -16,7 +16,7 @@ public class OnClick : MonoBehaviour
         
     }
 
-    // Update is the thing we want to use :)
+    // Update is the thing we want to use
     void FixedUpdate()
     {
         //if (Input.GetKeyDown(PressThisKey)) {
