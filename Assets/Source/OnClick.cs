@@ -17,16 +17,21 @@ public class OnClick : MonoBehaviour
     }
 
     // Update is the thing we want to use :)
-    void Update()
+    void FixedUpdate()
     {
-        if (Input.GetKeyDown(PressThisKey)) {
+        //if (Input.GetKeyDown(PressThisKey)) {
+            //Debug.Log("hold the key.");
+            //StartCoroutine(ClickedSpaceAtTheMomenent());
+
+        //}
+
+        if (Input.GetKey(PressThisKey) && Touching) {
             Debug.Log("hold the key.");
             StartCoroutine(ClickedSpaceAtTheMomenent());
-
         }
 
-        if (Input.GetKeyDown(PressThisKey) && !Touching) {
-            Settings.GetComponent<Health>().StageHealth -= 1;
+        if (Input.GetKeyUp(PressThisKey)) {
+            Debug.Log("UP");
         }
     }
 
