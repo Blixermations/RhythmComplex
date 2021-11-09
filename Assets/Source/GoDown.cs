@@ -13,7 +13,7 @@ public class GoDown : MonoBehaviour
         Speed = Speed / 60;    // setting the speed down two a lower level, delete this if the game is on hard mode.
     }
 
-    void Update()
+    void FixedUpdate()
     {
         transform.position -= new Vector3(0f, Speed * Time.deltaTime, 0f);
     }
