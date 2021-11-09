@@ -15,7 +15,7 @@ public class DiaText : MonoBehaviour
 
     void Start()
     {
-
+        StartDialog();
     }
 
     public void StartDialog () {
