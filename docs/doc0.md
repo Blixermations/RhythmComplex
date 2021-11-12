@@ -1,3 +1,3 @@
 ---
-permalink: /doc_0/
+permalink: /doc_0.html
 ---
