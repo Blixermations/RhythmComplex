@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2954b4c832645d441927ab52654b913c
+guid: 950f3c3e0a1a55d4ab9a2e045bcef550
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -10,8 +10,7 @@ TrueTypeFontImporter:
   includeFontData: 1
   fontNames:
   - Pixeloid Sans
-  fallbackFontReferences:
-  - {fileID: 12800000, guid: 646527a500097834dab2f68307a8a8c9, type: 3}
+  fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
