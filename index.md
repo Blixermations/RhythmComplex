@@ -22,7 +22,7 @@ The read me file is updated once a new version is out.
 
 ### How to play/docs
 
-Want to read on how to play or to just read the docs? [Goto this link here!](http://objectivedev.rf.gd)
+Want to read on how to play or to just read the docs? [Goto this link here!](docs)
 
 ### Modding or helping with development
 
