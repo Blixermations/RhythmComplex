@@ -11,21 +11,16 @@ to here! please wait for more notices later!
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# RhythmComplex
 
-# Header 1
-## Header 2
-### Header 3
+RhythmComplex is a rhythm game that i am making, its open source so all new updates will be pushed on github but not on itch.io
 
-- Bulleted
-- List
+Feel free to mod! Have Fun!
 
-1. Numbered
-2. List
+Unity Engine Version: The latest. (2021)
 
-**Bold** and _Italic_ and `Code` text
+|| ObjectiveDev ||
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
