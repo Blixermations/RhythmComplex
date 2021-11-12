@@ -6,29 +6,28 @@ of RhythmComplex and how to play it!
 Currently the readme file is being transported to this website! so the current docs will be moved
 to here! please wait for more notices later!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### READ-ME
 
 ```markdown
-# RhythmComplex
-
 RhythmComplex is a rhythm game that i am making, its open source so all new updates will be pushed on github but not on itch.io
 
 Feel free to mod! Have Fun!
 
 Unity Engine Version: The latest. (2021)
 
-|| ObjectiveDev ||
-
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The read me file is updated once a new version is out.
 
-### Jekyll Themes
+### How to play/docs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Blixermations/RhythmComplex/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Want to read on how to play or to just read the docs? [Goto this link here!](blixerwin7.rf.gd) | link not working right now.
 
-### Support or Contact
+### Modding or helping with development
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You are alowed to mod and help with the developement at anytime! but please do say in the mod that the game is made
+by me, ObjectiveDev. So if i see anything without my name in it, then im going to issue a complaint.
+
+Thank you!
+
+|| ObjectiveDev ||
