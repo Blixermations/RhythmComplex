@@ -21,7 +21,7 @@ The read me file is updated once a new version is out.
 
 ### How to play/docs
 
-Want to read on how to play or to just read the docs? [Goto this link here!](blixerwin7.rf.gd) | link not working right now.
+Want to read on how to play or to just read the docs? [Goto this link here!](http://objectivedev.rf.gd) | link not working right now.
 
 ### Modding or helping with development
 
