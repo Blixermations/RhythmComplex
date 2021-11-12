@@ -22,9 +22,7 @@ public class Playstate : MonoBehaviour
 
         if (whatLevel == "NULL") {
             levelLOAD = Instantiate(levelTEST);
-
-            levelLOAD.transform.localScale = new Vector3(1, 1, 1);
-            levelLOAD.transform.position = new Vector3(0.19f, 0.48f, -9.99488f);
+            levelLOAD.transform.position = new Vector3(-0.02f, -0.69f, -9.99488f);
             levelLOAD.name = "CHART";
             
         }
