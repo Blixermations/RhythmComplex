@@ -1,5 +1,8 @@
 # How to press the notes in game.
 
+[HOME](https://blixermations.github.io/RhythmComplex/docs/)
+
+
 When a note is coming down or is over the letter/keybind, then press that letter on your keybored
 which will remove the note and give you a point.
 
