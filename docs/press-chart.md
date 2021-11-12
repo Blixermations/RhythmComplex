@@ -19,4 +19,4 @@ Amazing! = 6/Pressed it correctly 3 in a row.
 
 Complexed!! = 7/Pressed it corretly 5 in a row
 
-[Next Document >> (this doesnt work.)](press-keybinds)
+[Next Document >>](press-keybinds)
