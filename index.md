@@ -19,8 +19,6 @@ Unity Engine Version: The latest. (2021)
 
 The read me file is updated once a new version is out.
 
-|
-
 ### How to play/docs
 
 Want to read on how to play or to just read the docs? [Goto this link here!](http://objectivedev.rf.gd) | link not working right now.
