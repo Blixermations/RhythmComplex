@@ -1,6 +1,4 @@
  ---
- layout: page
- title: UHHHHh
  permalink: /doc_zero/
  ---
 
