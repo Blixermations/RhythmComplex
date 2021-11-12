@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the RhythmComplex Website!
 
-You can use the [editor on GitHub](https://github.com/Blixermations/RhythmComplex/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there! Welcome to the RhythmComplex website! This site holds all the downloads/docs
+of RhythmComplex and how to play it!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently the readme file is being transported to this website! so the current docs will be moved
+to here! please wait for more notices later!
 
 ### Markdown
 
